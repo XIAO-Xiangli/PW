@@ -1,5 +1,5 @@
 # PW: Previewable-Watermark
-This is the Matlab code for the paper "Previewable Client-Side Watermarking for Copyrighted Image Sharing"
+This is the Matlab code for the paper "Preview Helps Selection: Previewable Image Watermarking with Client-Side Embedding"
 
 --Folders named SS and STDM correspond to the first and second scheme, respectively.
 
